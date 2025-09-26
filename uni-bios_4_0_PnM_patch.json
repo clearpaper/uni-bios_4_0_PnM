@@ -1,0 +1,8 @@
+{
+  "description": "https://github.com/clearpaper/uni-bios_4_0_PnM",
+  "input_file": "uni-bios_4_0.rom",
+  "input_crc32": "A7AAB458",
+  "patch_file": "uni-bios_4_0_PnM_patch.ips",
+  "output_file": "uni-bios_4_0_PnM.rom",
+  "output_crc32": "B204F293"
+}
